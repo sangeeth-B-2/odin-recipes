@@ -1,0 +1,40 @@
+
+
+.hl {
+  height: fit-content;
+  width: 500px;
+  color: black;
+  background-color: aqua;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 600px;
+  font-style: oblique;
+  text-align: center;
+ 
+  
+}
+.li {
+font-family: 'Times New Roman', Times, serif;
+font-weight:bolder;
+color: rgb(145, 49, 235);
+
+
+  }
+.border {
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: rgb(93, 142, 216);
+}
+.mar {
+  margin:auto 4em;
+
+}
+ul {
+  margin: auto 5em;
+  border: 2px solid blue;
+  padding: 5em;
+}
+p {
+  text-align: center;
+}
