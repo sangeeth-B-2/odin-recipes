@@ -1,12 +1,10 @@
-* {
-    box-sizing: border-box;
-}
+
 .big{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: larger;
+    font-size: 50px;
     color: rgb(180, 108, 12);
-    text-shadow: 0cap;
     text-align: center;
+    border-radius: 4em;
     
 }
 .border {
@@ -14,14 +12,30 @@
     border-width: 3px;
     border-left-width: 10px;
     border-right-width: 10px;
-    border-color: rgb(93, 142, 216);
+    border-color: #3c4709;
 }
 .small_head {
     text-shadow: hsl(0, 0%, 5%);
-    font-size: medium;
-    color: #a4c028;
+    font-size: 30px;
+    color: #000000;
+    border-radius: 3em;
+ }
+ .fo2{
+    font-family: monospace sans-serif;
  }
 .ita {
 text-decoration: #7090d3;
 }
+.upp {
+    text-transform: uppercase;
+}
+.ln {
+    text-decoration: dashed;
+}
+h2 {
+    text-transform:uppercase;
+    color: rgb(243, 0, 101);
+    border-style: dotted;
 
+    
+}

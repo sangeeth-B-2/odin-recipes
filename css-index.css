@@ -6,7 +6,7 @@
   color: black;
   background-color: aqua;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 600px;
+  font-size: 4em;
   font-style: oblique;
   text-align: center;
  
@@ -14,27 +14,24 @@
 }
 .li {
 font-family: 'Times New Roman', Times, serif;
-font-weight:bolder;
-color: rgb(145, 49, 235);
-
-
+font-size: 2em;
+color: rgb(192, 6, 136);
+  }
+  .mar2 {
+    margin-left: 400px;
+    margin-bottom: 30px;
+    padding: 10px;
+    border-color: brown;
+    border-radius: 20px;
   }
 .border {
     border-style: solid;
-    border-width: 3px;
-    border-left-width: 10px;
-    border-right-width: 10px;
-    border-color: rgb(93, 142, 216);
-}
-.mar {
-  margin:auto 4em;
-
+    border: 50px;
+    border-color: rgb(0, 85, 212);
 }
 ul {
+  text-align: center;
   margin: auto 5em;
   border: 2px solid blue;
   padding: 5em;
-}
-p {
-  text-align: center;
 }
